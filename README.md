@@ -8,6 +8,8 @@ Made by [OffLadder](https://offladder.com), whose AI coach Laddie helps people f
 
 - **Claude (web, desktop and Cowork)**: open the directory, search for OffLadder and add the plugin.
 - **Claude Code**: `/plugin install offladder --marketplace wonderwhiz/offladder-claude`
+- **Gemini CLI**: `gemini extensions install https://github.com/wonderwhiz/offladder-claude`
+- **Any MCP client**: add the remote server `https://offladder.com/claude/mcp` (Streamable HTTP, no sign-in). It is also listed in the official MCP Registry as `com.offladder/offladder`.
 
 ## What's inside
 
