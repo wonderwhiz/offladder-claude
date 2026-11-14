@@ -28,5 +28,8 @@
     "ai and jobs"
   ],
   "privacyPolicyUrl": "https://offladder.com/privacy",
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "documentationUrl": "https://offladder.com/claude",
+  "supportUrl": "mailto:hello@offladder.com",
+  "termsOfServiceUrl": "https://offladder.com/terms"
 }
