@@ -1,0 +1,32 @@
+{
+  "name": "offladder",
+  "displayName": "OffLadder",
+  "version": "1.0.0",
+  "description": "Career-change coach: test a career with small real-world experiments, find directions that fit, tailor your CV and cover letter to a job, answer application questions, prepare for interviews and plan the month after a layoff. Includes OffLadder's no-login connector with 300+ sourced career guides.",
+  "author": {
+    "name": "OffLadder",
+    "email": "hello@offladder.com",
+    "url": "https://offladder.com"
+  },
+  "homepage": "https://offladder.com/claude",
+  "repository": "https://github.com/wonderwhiz/offladder-claude",
+  "license": "MIT",
+  "keywords": [
+    "career",
+    "career change",
+    "career coach",
+    "job search",
+    "cv",
+    "resume",
+    "cover letter",
+    "interview",
+    "layoff",
+    "job application",
+    "ats",
+    "career test",
+    "students",
+    "ai and jobs"
+  ],
+  "privacyPolicyUrl": "https://offladder.com/privacy",
+  "icon": ".claude-plugin/icon.png"
+}

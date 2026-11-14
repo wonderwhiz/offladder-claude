@@ -1,0 +1,17 @@
+{
+  "name": "offladder",
+  "owner": {
+    "name": "OffLadder",
+    "email": "hello@offladder.com"
+  },
+  "metadata": {
+    "description": "OffLadder's career-change coach for Claude."
+  },
+  "plugins": [
+    {
+      "name": "offladder",
+      "source": "./",
+      "description": "Career-change coach: test a career with small real-world experiments, find directions that fit, tailor your CV and cover letter to a job, answer application questions, prepare for interviews and plan the month after a layoff. Includes OffLadder's no-login connector with 300+ sourced career guides."
+    }
+  ]
+}
