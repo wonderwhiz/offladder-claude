@@ -1,6 +1,6 @@
 {
   "name": "offladder",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Career change coach: test a career with small real-world experiments, find directions, tailor a CV, prepare for interviews and plan after a layoff, with 300+ sourced guides.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {

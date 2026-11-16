@@ -13,7 +13,7 @@ Made by [OffLadder](https://offladder.com), whose AI coach Laddie helps people f
 
 ## What's inside
 
-### Skills (16)
+### Skills (18)
 
 | Skill | Use it when you want to… |
 | --- | --- |
@@ -33,6 +33,8 @@ Made by [OffLadder](https://offladder.com), whose AI coach Laddie helps people f
 | `return-to-work-after-a-break` | come back to work after caring, illness, study or a long break |
 | `update-linkedin-for-a-career-change` | rewrite your LinkedIn headline and About section for the job you want |
 | `start-a-new-job` | get through the first week, first payslip and probation |
+| `go-public-after-a-layoff` | write the "I'm looking" post, pick the Open to Work setting and sort the replies into leads |
+| `share-your-work-in-public` | turn a small experiment into an honest post, comment or headline in a new field |
 
 Skills load on their own when your question needs one. In Claude Code you can also call one directly, for example `/offladder:tailor-cv-to-job`.
 
@@ -58,6 +60,8 @@ The plugin adds OffLadder's remote MCP server at `https://offladder.com/claude/m
 - "Help me prepare for my interview on Thursday. Here's the job description."
 - "Will AI take my job as a paralegal?"
 - "They offered me £45k. How do I ask for more?"
+- "I posted about my layoff and got 60 comments. Which ones should I reply to?"
+- "I just tested UX research for 15 minutes. Help me post about it without sounding like AI."
 - "I've been home with my kids for six years. How do I go back to work?"
 
 ## What this plugin runs, sends and stores
